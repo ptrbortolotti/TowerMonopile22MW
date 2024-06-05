@@ -13,7 +13,7 @@
 
 # Load and activate your conda environment
 
-source activate wisdem-env
+source activate weis-env
  
 mpirun -np 72 python driver.py
 
