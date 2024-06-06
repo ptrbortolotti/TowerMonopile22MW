@@ -1,5 +1,5 @@
 general:
-        folder_output: IEA22_TM_7
+        folder_output: IEA22_TM
         fname_output: IEA-22-280-RWT
 design_variables:
 
